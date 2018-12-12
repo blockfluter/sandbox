@@ -1,6 +1,6 @@
 version one
 version two
 alternate version two
-// rogue activity
+// rogue activity					// added on the side
 // blabla on the side
 // more blabla
