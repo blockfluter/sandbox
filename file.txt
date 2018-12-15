@@ -1,6 +1,11 @@
 version one
 version two
 alternate version two
+<<<<<<< HEAD
 // rogue activity					// added on the side
+=======
+//// stuff added on master
+// rogue activity
+>>>>>>> master
 // blabla on the side
 // more blabla
